@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AiMAnsarie
 - 👀 I’m interested in Game & App Development
-- 🌱 I’m currently learning Unity & Xamarin
-- 💞️ I’m looking to collaborate on Game Development using Unity & App Development using Xamarin
+- 🌱 I’m currently learning Spring Boot, Flutter & Angular
+- 💞️ I’m looking to collaborate on Game Development using Unity & App Development using Flutter
 - 📫 How to reach me ...
 
 <!---
